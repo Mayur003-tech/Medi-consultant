@@ -235,6 +235,7 @@ header nav ul li a:hover{
 .footer {
     background-color: #c7d8f0;
     padding: 30px 0;
+    
 }
 
 .footer .container {
@@ -316,6 +317,7 @@ header nav ul li a:hover{
 .credit {
     text-align: center;
     padding: 15px;
+    margin-top: 30px;
 }
 
 /* Responsive Design */
